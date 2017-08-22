@@ -1,0 +1,7 @@
+Sorted List and Average Score
+Name                          |	Test Score 
+
+julie                         |   98
+jim                           |   100
+
+Average test score:	99
